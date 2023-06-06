@@ -1,0 +1,36 @@
+body{
+    margin: 0 auto;
+}
+
+
+header{
+    background-color: #00ffff;
+    
+}
+
+.head img{
+    width: 167px;
+    height: 143px;
+    padding: 10px 28px;
+}
+
+.head{
+    display: flex;
+    align-items: center;
+    
+}
+
+.links_box{
+    padding-left: 302px;
+
+}
+
+.links_box a{
+    text-decoration: none;
+    color: black;
+    padding-left: 83px;
+    font-family: Montserrat, sans-serif;
+    font-size: 22px;
+    
+    
+}

@@ -1,0 +1,73 @@
+body{
+    margin: 0 auto;
+}
+
+
+header{
+    background-color: #E0FFFF;
+    
+}
+
+.head img{
+    width: 167px;
+    height: 143px;
+    padding: 10px 28px;
+}
+
+.head{
+    display: flex;
+    align-items: center;
+    
+}
+
+.links_box{
+    padding-left: 302px;
+
+}
+
+.links_box a{
+    text-decoration: none;
+    color: black;
+    padding-left: 83px;
+    font-family: Montserrat, sans-serif;
+    font-size: 22px;
+    
+    
+}
+
+.avatar_block img{
+    border-radius: 400px;
+}
+
+.form_block{
+    padding-top: 49px;
+    display: flex;
+   
+}
+
+.name h2{
+    text-decoration: none;
+    font-family: Montserrat, sans-serif;
+    font-size: 22px;
+    color: black;
+}
+
+.email a{
+    text-decoration: none;
+    font-family: Montserrat, sans-serif;
+    font-size: 22px;
+    color: black;
+}
+
+.exit a{
+    text-decoration: none;
+    font-family: Montserrat, sans-serif;
+    font-size: 22px;
+    color: black;
+}
+
+.colum_box{
+    grid-column: 4px;
+    padding-left: 100px;
+    padding-top: 65px;
+}
